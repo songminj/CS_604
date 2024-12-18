@@ -1,11 +1,7 @@
 # 604의 CS Study
 
-[![Since](https://img.shields.io/badge/since-2024.12.11-333333.svg?style=flat-square)](https://gyoogle.github.io)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgyoogle%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Watch on GitHub](https://img.shields.io/github/watchers/gyoogle/tech-interview-for-developer.svg?style=social)](https://github.com/gyoogle/tech-interview-for-developer/watchers)
-[![Star on GitHub](https://img.shields.io/github/stars/gyoogle/tech-interview-for-developer.svg?style=social)](https://github.com/gyoogle/tech-interview-for-developer/stargazers)
-[![Fork on GitHub](https://img.shields.io/github/forks/gyoogle/tech-interview-for-developer.svg?style=social)](https://github.com/gyoogle/tech-interview-for-developer/network/members)
+[![Since](https://img.shields.io/badge/since-2024.12.11-333333.svg?style=flat-square)](https://songminj.github.io)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongminj%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br>
 
@@ -40,43 +36,43 @@
 - ### Database
   - [책 - 데이터베이스 개론](https://books.google.co.kr/books?id=jTJaEAAAQBAJ&pg=PA17&hl=ko&source=gbs_toc_r&cad=2#v=onepage&q&f=false)
 
-  - [CH1 - 데이터베이스 필요성]()
-  - [CH2 - 데이터베이스 관리시스템]()
-  - [CH3 - 데이터베이스 시스템]()
-
+  - [CH1 - 데이터베이스 필요성](DATABASE\CH1-데이터베이스필요성)
+  - [CH2,3 - 데이터베이스 관리시스템, 데이터베이스 시스템](DATABASE\CH2,3-데이터베이스시스템_구조)
+  - [CH4,5 - 데이터모델링, 관계데이터모델](DATABASE\CH4,5-데이터모델링_관계데이터모델)
+  - [CH6,7 - 관계데이터연산, 데이터베이스언어SQL](DATABASE\CH6,7-관계데이터연산_데이터베이스언어SQL)
 
   <br>
 
   
 - ### Computer Architecture
 
-  - [컴퓨터 구조 기초](%B4%88.)
+  - [컴퓨터 구조 기초]()
   - [컴퓨터의 구성]()
   - [중앙처리장치(CPU) 작동 원리](20%EC%9E%91%EB%8F%99%20%EC%9B%90%EB%A6%AC.md)
   - [캐시 메모리](%B6%80%EB%8F%99%20%EC%86%8C%EC%88%98%EC%A0%90.md)
   - [패리티 비트 & 해밍 코드](%95%B4%EB%B0%8D%20%EC%BD%94%EB%93%9C.md)
   - [ARM 프로세서](# Data Structure
 
-  - [Array](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Array.md)
-  - [LinkedList](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Linked%20List.md)
-  - [Array & ArrayList & LinkedList](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Array%20vs%20ArrayList%20vs%20LinkedList.md)
-  - [스택(Stack) & 큐(Queue)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Stack%20%26%20Queue.md)
-  - [힙(Heap)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Heap.md)
-  - [트리(Tree)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Tree.md)
-  - [이진탐색트리(Binary Search Tree)](<https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Binary%20Search%20Tree.md>)
-  - [해시(Hash)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Hash.md)
-  - [트라이(Trie)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Trie.md)
-  - [B-Tree & B+Tree](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/B%20Tree%20%26%20B%2B%20Tree.md)
+  - [Array](https://github.com/songminj/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Array.md)
+  - [LinkedList](https://github.com/songminj/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Linked%20List.md)
+  - [Array & ArrayList & LinkedList](https://github.com/songminj/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Array%20vs%20ArrayList%20vs%20LinkedList.md)
+  - [스택(Stack) & 큐(Queue)](https://github.com/songminj/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Stack%20%26%20Queue.md)
+  - [힙(Heap)](https://github.com/songminj/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Heap.md)
+  - [트리(Tree)](https://github.com/songminj/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Tree.md)
+  - [이진탐색트리(Binary Search Tree)](<https://github.com/songminj/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Binary%20Search%20Tree.md>)
+  - [해시(Hash)](https://github.com/songminj/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Hash.md)
+  - [트라이(Trie)](https://github.com/songminj/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Trie.md)
+  - [B-Tree & B+Tree](https://github.com/songminj/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/B%20Tree%20%26%20B%2B%20Tree.md)
 
   <br>
 
 
 - ### Network
 
-  - [OSI 7 계층](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/OSI%207%20계층.md)
-  - [TCP 3 way handshake & 4 way handshake](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/TCP%203%20way%20handshake%20%26%204%20way%20handshake.md)
-  - [TCP/IP 흐름제어 & 혼잡제어](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/TCP%20(%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4).md#tcp-%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4)
-  - [UDP](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/UDP.md#20190826%EC%9B%94-bym-udp%EB%9E%80)
+  - [OSI 7 계층](https://github.com/songminj/tech-interview-for-developer/blob/master/Computer%20Science/Network/OSI%207%20계층.md)
+  - [TCP 3 way handshake & 4 way handshake](https://github.com/songminj/tech-interview-for-developer/blob/master/Computer%20Science/Network/TCP%203%20way%20handshake%20%26%204%20way%20handshake.md)
+  - [TCP/IP 흐름제어 & 혼잡제어](https://github.com/songminj/tech-interview-for-developer/blob/master/Computer%20Science/Network/TCP%20(%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4).md#tcp-%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4%ED%98%BC%EC%9E%A1%EC%A0%9C%EC%96%B4)
+  - [UDP](https://github.com/songminj/tech-interview-for-developer/blob/master/Computer%20Science/Network/UDP.md#20190826%EC%9B%94-bym-udp%EB%9E%80)
   - [대칭키 & 공개키](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%20%26%20%EA%B3%B5%EA%B0%9C%ED%82%A4.md)
   - [HTTP & HTTPS](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/HTTP%20%26%20HTTPS.md)
   - [TLS/SSL handshake](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Network/TLS%20HandShake.md)
